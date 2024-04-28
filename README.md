@@ -1,4 +1,4 @@
-# Frontend Mentor - Loopstudios landing page solution
+# Frontend Mentor - Notifications-page solution
 
 This is one of my old projects that I made and forgot to publish back then. 
 It is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
