@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+body{
+    font-size: 16px;
+    padding: 20px;
+}
+img{
+    max-width: 100%;
+    width: 100%;
+}
+/* -------- */
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    line-height: 30px;
+    color: hsl(224, 21%, 14%);
+}
+#unread-num{
+    border-radius: 5px;
+    background-color: hsl(219, 85%, 26%);
+    color: hsl(0, 0%, 100%);
+    padding: 0.2px 12px;
+}
+.header p{
+    color:hsl(219, 12%, 42%);
+}
+/* -------- */
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+main section{
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 1.2rem;
+    padding: 1rem;
+    color: hsl(219, 12%, 42%);
+}
+main .unread{
+    background-color: hsl(210, 60%, 98%);
+}
+main section .pictures{
+    max-width: 30px;
+}
+.names  {
+    color:hsl(224, 21%, 14%);
+    font-weight: 800;
+}
+.emphasiesed{
+    color: hsl(224, 21%, 14%);
+    font-weight: 500;
+}
+.activity{
+    color: hsl(219, 14%, 63%);
+}
+.msg{
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 0.2px solid hsla(219, 14%, 63%, 0.3);
+    box-shadow: none;
+    border-radius: 5px;
+    color: hsl(219, 12%, 42%);
+}
+.Chess-club{
+    color: hsl(219, 85%, 26%);
+    font-weight: 800;
+}
+.red-dot{
+    margin-left: 0.3rem;
+    font-size: 20px;
+    color:hsl(1, 90%, 64%);
+}
+#picture{
+    max-width: 40px;
+}
+/* -------------------------------------- */
+/* focus */
+.emphasiesed:hover{
+    cursor: pointer;
+    color: hsl(219, 85%, 26%);
+    font-weight: 800;
+}
+.names:hover{
+    cursor: pointer;
+    color: hsl(219, 85%, 26%);
+    font-weight: 800;
+}
+.msg:hover{
+    cursor: pointer;
+    background-color: hsl(211, 68%, 94%);
+}
+#picture:hover,.Chess-club:hover{
+    cursor: pointer;
+}
+.header p:hover{
+    cursor: pointer;
+    color: hsl(219, 85%, 26%);
+    font-weight: 500;
+}
+
+@media screen and (min-width: 1024px) {
+    body{
+        max-width: 680px;
+        width: 50%;
+        margin: auto;
+    }
+}
