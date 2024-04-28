@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page solution
 
-This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw).
+This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
 
 ## Table of contents
 
@@ -14,9 +14,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 ### Built with
 
 - HTML
-- CSS custom properties
-- [Bootstrap](https://getbootstrap.com/)
-- [React](https://reactjs.org/)
+- CSS
+- JavaScript
 
 ### Links
 
