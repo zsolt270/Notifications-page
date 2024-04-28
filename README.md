@@ -20,7 +20,7 @@ It is a solution to the [Notifications page challenge on Frontend Mentor](https:
 
 ### Links
 
--  [Live Site URL](https://zsolt270.github.io/Notifications-page/)
+-  [Live Site URL](https://zsolt270.github.io/Notifications-page/) 
 
 ### Screenshot
 
