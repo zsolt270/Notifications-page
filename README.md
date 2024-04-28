@@ -23,6 +23,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Screenshot of the Desktop view](./src/assets/images/loopstudios_desktop_finished.png) 
+![Screenshot of the Desktop view](./finished_design/finished_desktop.png) 
+![Screenshot of the Mobile view](./finished_design/finished_mobile.png) 
 
 
