@@ -20,7 +20,7 @@ It is a solution to the [Notifications page challenge on Frontend Mentor](https:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://zsolt270.github.io/Loopstudios-landing-page/)
+-  [Live Site URL](https://zsolt270.github.io/Notifications-page/)
 
 ### Screenshot
 
